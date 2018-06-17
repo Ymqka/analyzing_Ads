@@ -13,4 +13,5 @@ ________________________________________________
 давности. Попытавшись погуглить проблему, наткнулся на библиотеку silenium, очень удобная вещь,
 получилось спарсить все нужные мне ссылки в лист. C silenium мне помогли статья
 https://python-scripts.com/web-automation-with-python-and-selenium и документация самого silenium'a.
-
+Теорию процесса очистки данных взял отсюда https://www.kdnuggets.com/2017/12/general-approach-preprocessing-text-data.html
+реализацию гуглил
