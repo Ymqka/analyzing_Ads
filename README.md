@@ -20,15 +20,15 @@ https://python-scripts.com/web-automation-with-python-and-selenium и докум
 
 
 __________________________________________________
-cleaning_ads_data.ipynb - очистка собранных данных из рекламных статей
-cleaning_nonads_data.ipynb - очистка собранных данных из обычных статей
-parsing_ads.ipynb - парсинг рекламных статей
-parsing_nonads.ipynb - парсинг обычных статей
-vizualizing and training.ipynb - визуализация, тренировка и тест классификатора
-testeing.ipynb - проверка классификатора на статьях не из медузы
-data - папка с данными 
-    cleaned_ads_data.csv - очищенные данные из рекламных статей
-    cleaned_nonads_data.csv - очищенные данные из обычных статей
-    parsed_ad_data.csv - спарсенные неочищенные данные из рекламных статей
-    parsed_nonad_data.csv - спарсенные неочищенные данные из обычных статей
-    tested_data.csv - соединеные очищенные данные из рекламных и обычных статей
++ cleaning_ads_data.ipynb - очистка собранных данных из рекламных статей
++ cleaning_nonads_data.ipynb - очистка собранных данных из обычных статей
++ parsing_ads.ipynb - парсинг рекламных статей
++ parsing_nonads.ipynb - парсинг обычных статей
++ vizualizing and training.ipynb - визуализация, тренировка и тест классификатора
++ testeing.ipynb - проверка классификатора на статьях не из медузы
++ data - папка с данными 
++ cleaned_ads_data.csv - очищенные данные из рекламных статей
++ cleaned_nonads_data.csv - очищенные данные из обычных статей
++ parsed_ad_data.csv - спарсенные неочищенные данные из рекламных статей
++ parsed_nonad_data.csv - спарсенные неочищенные данные из обычных статей
++ tested_data.csv - соединеные очищенные данные из рекламных и обычных статей
